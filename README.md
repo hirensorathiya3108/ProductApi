@@ -15,8 +15,8 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <your-repo-url>
-   cd <ProductApi>
+   git clone https://github.com/hirensorathiya3108/ProductApi.git
+   cd ProductApi
 
 2. Install project dependencies:
    ```bash
